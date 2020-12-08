@@ -1,3 +1,12 @@
+### Hi there, I'm Conviicts 👋
+
+## I'm a Developer and Student!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+
+<br />
+
+### Languages and Tools:
 <p align="center">
 	<a href="https://www.blender.org/" target="_blank">
 		<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
@@ -45,13 +54,15 @@
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 	</a>
 </p>
-<h1 align="center">Hi 👋, I'm Conviicts</h1>
-<h3 align="center">A student at 42 School</h3>
-<p align="left">
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=conviicts&show_icons=true&locale=en" alt="conviicts" />
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=conviicts&show_icons=true&locale=en&layout=compact" alt="conviicts" />
-</p>
-<br /><br />
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=conviicts&" alt="conviicts" />
-</p>
+<br />
+<br />
+
+---
+
+
+<img align="left" alt="Conviicts Github Stats" src="https://github-readme-stats.vercel.app/api?username=conviicts&show_icons=true&hide_border=true" />
+<br />
+<br />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conviicts)](https://github.com/conviicts/github-readme-stats)
